@@ -1,4 +1,4 @@
-#Clone the repo by using following commands
+# Clone the repo by using following commands
 git clone https://github.com/StanProgrammer/Tradingrepo.git
 
 #Some Points to remember
