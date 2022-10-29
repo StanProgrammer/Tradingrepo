@@ -8,5 +8,5 @@ git clone https://github.com/StanProgrammer/Tradingrepo.git
 ## Run Project
 - Activate virtual environment
 - Navigate to /TradingProject Folder
-- run project using command
+- run project using command:
 <br> py manage.py runserver
